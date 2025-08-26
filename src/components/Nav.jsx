@@ -12,7 +12,7 @@ const Nav = () => {
                 <NavLink to="/">홈</NavLink>
             </li>
             <li>
-                <NavLink to="/about">소개</NavLink>
+                <NavLink to="/about">자기소개</NavLink>
             </li>
             <li>
                 <NavLink to="/board">게시판리스트</NavLink>
